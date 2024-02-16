@@ -1,8 +1,34 @@
-# React + Vite
+**Formulário Newsletter** 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este foi o projeto que aprendi no YouTube do Hora de codar com o professor Matheus Battisti
+É um formulário feito em Typescript ultilizando as tecnologias de Tailwind para estilização
 
-Currently, two official plugins are available:
+**Introdução**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+O objetivo é criar um sistema para disponibilizar um formulário de cadastro com validações de dados.
+
+**Tecnologias utilizadas**
+
+
+VS Code
+
+Node.JS
+
+NPM
+
+React
+
+TypeScript
+
+Tailwind
+
+Vite
+
+Pra rodar o servidor escreva no terminal:
+
+npm run start
+Parar de rodar o servidor: no terminal clicar nas teclas de "Ctrl" e "C".
+
+
+**✔️ Aplicação (Front-end finalizada).**
