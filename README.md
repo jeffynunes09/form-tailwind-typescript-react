@@ -27,8 +27,7 @@ Vite
 
 Pra rodar o servidor escreva no terminal:
 
-npm run start
-Parar de rodar o servidor: no terminal clicar nas teclas de "Ctrl" e "C".
+npm run dev
 
 
 **✔️ Aplicação (Front-end finalizada).**
